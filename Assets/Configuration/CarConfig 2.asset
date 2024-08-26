@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bd7bb16b5c347c4a976d51e95f2e221, type: 3}
+  m_Name: CarConfig 2
+  m_EditorClassIdentifier: 
+  carName: Zego Mustang
+  price: 200
+  accelerationMultiplier: 26
+  brakeMultipler: 146
+  steerMultiplier: 34
+  maxSteerVelocity: 77
+  rotationAmount: 1
+  feverChargingTime: 10
+  feverDuration: 5
